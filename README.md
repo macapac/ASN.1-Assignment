@@ -11,3 +11,9 @@ Decode the private key from Base64 and extract its ASN.1 structure.
 Reformat the key into a standard RSA PEM format.
 Use the PEM key with OpenSSL to decrypt the ciphertext.
 Display the decrypted plaintext.
+
+
+
+openssl asn1parse -in decoded_key.der -inform DER
+
+
