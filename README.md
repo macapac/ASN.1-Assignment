@@ -3,8 +3,8 @@
 //1 
 
 cd C:Usersasuspython-asn1-1examples 
-//2 
 
+//2 
 python dump.py --pem private_key.pem 
 
 //3 
