@@ -27,9 +27,7 @@ kuGUpPEPZHHDBwOX0vUWXMfmH8WdgQnIRO1fXFzuA8r0pOHHOs0b9VwoYxYStmsayLzm+kiDMNnp
 
 
 
-
-
-#Commands
+# Commands
 
 //1: 
 python dump.py --pem private_key.pem 
