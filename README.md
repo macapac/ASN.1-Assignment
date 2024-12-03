@@ -1,7 +1,11 @@
 # ASN.1-Assignment
 
 
+
+
 Web Security 2024 assignment, understanding and applying ASN.1 encoding principles to RSA private keys. Using OpenSSL and programming tools to decrypt Base64-encoded ciphertext using a non-standard RSA private key format.
+
+
 
 
 Private key: "MIIBTwKBgQC4edQipK1/cAl05q2M5DLt/41IcG1yr1S72snlmoiGSTKeQFNsrp78
@@ -15,11 +19,17 @@ dfCT"
 
 
 
+
+
 Ciphertext: "E9k1i26GAJkOqTAd7GZmqWD8nCyePYG7P+G8TeJI4OJGXDxKObKlS4qmso7NCK77nVclKpuu/pKC
 kuGUpPEPZHHDBwOX0vUWXMfmH8WdgQnIRO1fXFzuA8r0pOHHOs0b9VwoYxYStmsayLzm+kiDMNnp
 0s1HNXaT5YAjYqqIpNI="
 
 
+
+
+
+#Commands
 
 //1: 
 python dump.py --pem private_key.pem 
