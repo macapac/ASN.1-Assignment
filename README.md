@@ -2,7 +2,7 @@
 
 //1 
 
-cd C:Usersasuspython-asn1-1examples 
+cd C:UsersasusASN.1-Assigment
 
 //2 
 python dump.py --pem private_key.pem 
